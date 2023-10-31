@@ -1,4 +1,4 @@
-# The Remote Suite
+# KiddoCave
 
 Coming soon, By [Mehul Thakkar](https://twitter.com/mehulcse).
 
